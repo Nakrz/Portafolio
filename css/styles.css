@@ -745,13 +745,18 @@ h2 {
     color: #fcfcfc;
 }
 
-.obj{
+.obj {
     margin: 0;
     color: rgb(253, 244, 226);
+    transition: transform 0.3s ease;
 }
 
+.obj:hover {
+    transform: scale(1.2); 
+}
 .showcase-text2{
     color: rgb(253, 244, 226);
+    transition: transform 0.3s ease;
 }
 
 
