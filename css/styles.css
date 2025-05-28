@@ -525,7 +525,8 @@ header {
     grid-template-columns: 1fr; 
     align-items: center;
     gap: 3rem;
-    margin-right: 20vh;
+    margin-right: 10vh;
+    margin-left: 10vh;
 }
 
 
